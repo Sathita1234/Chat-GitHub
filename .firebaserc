@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "gout": "regis-gout",
+    "default": "regis-gout"
+  }
+}

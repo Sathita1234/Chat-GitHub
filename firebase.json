@@ -1,0 +1,11 @@
+{
+  "functions": {
+    "source": ".",
+    "predeploy": [
+      "npm run lint"
+    ]
+  },
+  "database": {
+    "rules": "database.rules.json"
+  }
+}
